@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yongtaejeon
 - 👀 I’m interested in Computer programing
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python, Typescript
-      React Hooks, Flutter, TensorFlow.js
-- 💞️ I’m looking to collaborate on NFT and Blockchain Service
+- 🌱 I’m currently learning C/C++, Javascript, Python, Typescript,
+      Angular, Flutter, pytorch, TensorFlow
+- 💞️ I am planning to implement machine learning and AI through GCP.
 - 📫 How to reach me ydai595940@gmail.com
 
 <!---
